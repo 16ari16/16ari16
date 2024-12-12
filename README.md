@@ -1,5 +1,5 @@
 # Привет! 👋  
-Меня зовут **Айрат Арипов**. Я программист и энтузиаст в области технологий с опытом работы в веб-разработке, создании мобильных и десктопных приложений, тестировании и менеджменте.  
+Меня зовут **Айрат Арипов**. Я программист и энтузиаст в области технологий с опытом в веб-разработке, создании мобильных и десктопных приложений, тестировании, работе с нейросетями и менеджменте.  
 
 ---
 
@@ -13,18 +13,20 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=windows&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)  
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)  
 
 ### Фреймворки и библиотеки  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)  
 
-### Веб-технологии  
+### Веб-технологии и API  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+- **REST API**  
 
 ### Инструменты разработки  
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)  
@@ -32,14 +34,19 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)  
 
-### Базы данных 
+### Базы данных  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
 ![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)  
+- **Работа с базами данных (СУБД)**  
 
 ### Дополнительно  
-- **Менеджмент и работа в команде**  
-- **Осинт (OSINT) технологии**  
-- **Работа с нейросетями**  
-- **Тестирование (ручное и автоматизированное)**  
+- **Нейросети**  
+- **Веб-программирование**  
+- **Сбор и анализ информации**  
+- **Аналитические способности**  
+- **Работа с первичными документами**  
+- **Поиск информации в интернете**  
+- **Работа с Git и GitHub**  
 
 ---
 
