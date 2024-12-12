@@ -30,15 +30,18 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) 
-![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=visualstudiocode&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=visualstudiocode&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)  
+![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)  
 
 **Other Expertise:**  
 - Neural Networks  
 - OSINT (Open-Source Intelligence)  
 - REST APIs, JSON  
 - UI/UX Design  
+- Online Learning Platforms: [Stepik](https://stepik.org), [Yandex Practicum](https://practicum.yandex.ru)  
+- Google Tools: [Firebase Console](https://console.firebase.google.com), [IDX by Google](https://cloud.google.com/workstations/)  
 
 ---
 
@@ -60,4 +63,5 @@ My dream is to contribute to the tech world by merging futuristic concepts like 
 - **Email:** airat.aripoff@yandex.ru  
 - **GitHub:** [github.com/16ari16](https://github.com/16ari16)  
 - **Telegram:** [@16ari16](https://t.me/l16ari16l)  
-- **Discord:** 16ari16#3839
+- **Discord:** 16ari16#3839  
+- **Figma:** [Figma](https://www.figma.com)  
