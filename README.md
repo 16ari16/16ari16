@@ -64,4 +64,3 @@ My dream is to contribute to the tech world by merging futuristic concepts like 
 - **GitHub:** [github.com/16ari16](https://github.com/16ari16)  
 - **Telegram:** [@16ari16](https://t.me/l16ari16l)  
 - **Discord:** 16ari16#3839  
-- **Figma:** [Figma](https://www.figma.com)  
