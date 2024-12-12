@@ -17,7 +17,6 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 ![XML](https://img.shields.io/badge/-XML-8B0000?style=flat-square&logo=xml&logoColor=white)  
 
 **Frameworks and Tools:**  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)  
 ![WPF](https://img.shields.io/badge/-WPF-5A4F82?style=flat-square&logo=microsoft&logoColor=white)  
@@ -31,7 +30,9 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=visualstudiocode&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
 
 **Other Expertise:**  
 - Neural Networks  
@@ -66,10 +67,6 @@ My dream is to contribute to the tech world by merging futuristic concepts like 
 
 ## 📫 Let's Connect  
 - **Email:** airat.aripoff@yandex.ru  
-- **GitHub:** [github.com/your-username](https://github.com/your-username)  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **Telegram:** [@your-username](https://t.me/your-username)  
-- **Discord:** Airat#1234  
-- **Habr Career:** [habr.com/your-profile](https://career.habr.com/your-profile)  
-- **Stack Overflow:** [stackoverflow.com/users/your-id](https://stackoverflow.com/users/your-id)  
-- **Twitter:** [@your-username](https://twitter.com/your-username)  
+- **GitHub:** [github.com/16ari16](https://github.com/16ari16)  
+- **Telegram:** [@16ari16](https://t.me/l16ari16l)  
+- **Discord:** 16ari16#3839
