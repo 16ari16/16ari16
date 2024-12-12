@@ -51,15 +51,6 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 
 ---
 
-## 🚀 Projects  
-### [Project 1 Title](https://github.com/your-repo)  
-A brief description of this project and its key impact or achievements.  
-
-### [Project 2 Title](https://github.com/your-repo)  
-Highlight the features and significance of this project.  
-
----
-
 ## 🌌 Personal Touch  
 My dream is to contribute to the tech world by merging futuristic concepts like cyberpunk-inspired technologies with real-world applications. I believe in the power of artificial intelligence, automation, and innovation to shape a better tomorrow.  
 
