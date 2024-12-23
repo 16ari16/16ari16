@@ -54,7 +54,7 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 - **Innovation:** Always exploring cutting-edge technologies like AI and OSINT, ensuring creative and future-ready solutions.  
 - **Self-Organization:** Strong time management and the ability to handle multiple priorities without compromising quality.  
 - **Stress Resilience:** Thrives in challenging situations, staying focused and delivering results under pressure.
-- **Requirements Specification (TЗ) Creation**  
+- **Requirements Specification Creation**  
 - **Diagram Creation (UML, Flowcharts, ERD)**   
 
 ---
