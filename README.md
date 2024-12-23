@@ -11,6 +11,7 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=microsoft&logoColor=white)  
@@ -32,7 +33,8 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 ![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=visualstudiocode&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)  
 
 **Other Expertise:**  
