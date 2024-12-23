@@ -59,6 +59,12 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 
 ---
 
+## 🌐 **Languages**  
+- **Russian:** Native speaker.  
+- **English:** Advanced (Can maintain dialogue and correspond fluently in writing, though not a native speaker).  
+
+---
+
 ## 🌌 Personal Touch  
 My dream is to contribute to the tech world by merging futuristic concepts like cyberpunk-inspired technologies with real-world applications. I believe in the power of artificial intelligence, automation, and innovation to shape a better tomorrow.  
 
