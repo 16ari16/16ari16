@@ -53,7 +53,9 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 - **Diplomacy and Teamwork:** Skilled at building relationships and working collaboratively, even in high-pressure environments.  
 - **Innovation:** Always exploring cutting-edge technologies like AI and OSINT, ensuring creative and future-ready solutions.  
 - **Self-Organization:** Strong time management and the ability to handle multiple priorities without compromising quality.  
-- **Stress Resilience:** Thrives in challenging situations, staying focused and delivering results under pressure.  
+- **Stress Resilience:** Thrives in challenging situations, staying focused and delivering results under pressure.
+- **Requirements Specification (TЗ) Creation**  
+- **Diagram Creation (UML, Flowcharts, ERD)**   
 
 ---
 
