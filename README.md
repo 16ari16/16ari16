@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Airat Aripov!  
 
 I am a passionate programmer and technology enthusiast with a versatile skill set in software development, data analysis, and project management. My focus is on creating robust and innovative solutions that make an impact.
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2017%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 ---
 
 ## 🛠️ Technical Skills  
