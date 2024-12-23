@@ -24,7 +24,9 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 
 **Databases:**  
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) 
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
 
 **Development Tools:**  
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)  
