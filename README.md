@@ -61,7 +61,8 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 
 ## 🌐 **Languages**  
 - **Russian:** Native speaker.  
-- **English:** B2 (Upper Intermediate)(Can maintain dialogue and correspond fluently in writing, though not a native speaker).  
+- **English:** B1-B2 (Upper Intermediate)(Can maintain dialogue and correspond fluently in writing, though not a native speaker).  
+https://cert.efset.org/ru/jyCkSm
 
 ---
 
