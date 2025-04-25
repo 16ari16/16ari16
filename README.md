@@ -15,6 +15,7 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=microsoft&logoColor=white)  
 ![XML](https://img.shields.io/badge/-XML-8B0000?style=flat-square&logo=xml&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
 
 **Frameworks and Tools:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
@@ -22,7 +23,6 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 ![WPF](https://img.shields.io/badge/-WPF-5A4F82?style=flat-square&logo=microsoft&logoColor=white)  
 
 **Databases:**  
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
