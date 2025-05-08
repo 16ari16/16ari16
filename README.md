@@ -45,7 +45,6 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 - OSINT (Open-Source Intelligence)  
 - REST APIs, JSON  
 - UI/UX Design  
-- Online Learning Platforms: [Stepik](https://stepik.org), [Yandex Practicum](https://practicum.yandex.ru)  
 - Google Tools: [Firebase Console](https://console.firebase.google.com), [IDX by Google](https://cloud.google.com/workstations/)  
 
 ---
