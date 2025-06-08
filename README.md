@@ -19,7 +19,6 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 
 **Databases:**  
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) 
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 
 **Development Tools:**  
