@@ -8,13 +8,8 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![XAML](https://img.shields.io/badge/-XAML-0C54C2?style=flat-square&logo=microsoft&logoColor=white)  
-![XML](https://img.shields.io/badge/-XML-8B0000?style=flat-square&logo=xml&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
 
 **Frameworks and Tools:**  
