@@ -31,7 +31,6 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 ![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=visualstudiocode&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Replit](https://img.shields.io/badge/Replit-667881?style=flat-square&logo=replit&logoColor=white)  
 ![Rider](https://img.shields.io/badge/-Rider-000000?style=flat-square&logo=jetbrains&logoColor=white)  
 
 
