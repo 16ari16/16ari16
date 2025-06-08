@@ -73,7 +73,7 @@ My dream is to contribute to the tech world by merging futuristic concepts like 
 ---
 
 ## 📫 Let's Connect  
-- **Email:** airat.aripoff@yandex.ru  
+- **Email:** airat280805@yandex.ru
 - **GitHub:** [github.com/16ari16](https://github.com/16ari16)  
 - **Telegram:** [@16ari16](https://t.me/l16ari16l)  
 - **Discord:** 16ari16#3839  
