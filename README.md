@@ -45,7 +45,7 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 - OSINT (Open-Source Intelligence)  
 - REST APIs, JSON  
 - UI/UX Design  
-- Google Tools: [Firebase Console](https://console.firebase.google.com), [IDX by Google](https://cloud.google.com/workstations/)  
+- Google Tools: [Firebase Console](https://console.firebase.google.com), [IDX by Google](https://idx.google.com/)  
 
 ---
 
