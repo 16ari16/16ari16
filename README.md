@@ -67,4 +67,4 @@ My dream is to contribute to the tech world by merging futuristic concepts like 
 ## 📫 Let's Connect  
 - **Email:** airat280805@yandex.ru
 - **Telegram:** [@16ari16](https://t.me/l16ari16l)  
-
+https://camo.githubusercontent.com/0e0513ee60b79a15de4fca48f9e07809879aeb4bc15c6c9a3d3a25779b3fd40f/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d526173756c47616c65657626636f6c6f723d626c756576696f6c6574267374796c653d666c61742d737175617265
