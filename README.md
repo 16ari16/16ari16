@@ -68,4 +68,6 @@ My dream is to contribute to the tech world by merging futuristic concepts like 
 - **Email:** airat280805@yandex.ru
 - **Telegram:** [@16ari16](https://t.me/l16ari16l)  
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=16ari16&color=blueviolet&style=flat-square" alt="Profile views" />
+</p>
