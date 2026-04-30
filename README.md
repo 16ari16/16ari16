@@ -38,7 +38,7 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 - REST APIs, JSON  
 - UI/UX Design  
 - Google Tools: [Firebase Console](https://console.firebase.google.com), [IDX by Google](https://idx.google.com/)  
-- Agentic Programming(I know how work with tools such a Cursor,Opencode,Claude code e.t.c.
+- Agentic Programming(I know how work with tools such a Cursor,Opencode,Claude code e.t.c.)
 ---
 
 ## 💡 Key Strengths  
