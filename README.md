@@ -5,29 +5,22 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 
 ## 🛠️ Technical Skills  
 **Programming Languages:**  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
 
 **Frameworks and Tools:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)  
-![WPF](https://img.shields.io/badge/-WPF-5A4F82?style=flat-square&logo=microsoft&logoColor=white)  
+
 
 **Databases:**  
-![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) 
+
 
 
 **Development Tools:**  
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=visualstudiocode&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=visualstudiocode&logoColor=white) 
 ![Rider](https://img.shields.io/badge/-Rider-000000?style=flat-square&logo=jetbrains&logoColor=white)  
 
 
@@ -35,7 +28,6 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 - Neural Networks  
 - OSINT (Open-Source Intelligence)  
 - REST APIs, JSON  
-- UI/UX Design  
 - Google Tools: [Firebase Console](https://console.firebase.google.com), [IDX by Google](https://idx.google.com/)  
 - Agentic Programming(I know how work with tools such a Cursor,Opencode,Claude Code e.t.c.)
 ---
