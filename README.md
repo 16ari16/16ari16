@@ -3,17 +3,15 @@
 I am a passionate programmer and technology enthusiast with a versatile skill set in software development, data analysis, and project management. My focus is on creating robust and innovative solutions that make an impact.
 ---
 
-## 🛠️ Technical Skills  
-**Programming Languages:**  
+## 🛠️ Hard Skills  
+**Backend:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-
-**Frameworks and Tools:**  
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **Databases:**  
-
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Development Tools:**  
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)  
@@ -23,23 +21,24 @@ I am a passionate programmer and technology enthusiast with a versatile skill se
 ![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=visualstudiocode&logoColor=white) 
 ![Rider](https://img.shields.io/badge/-Rider-000000?style=flat-square&logo=jetbrains&logoColor=white)  
 
+**DevOps**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Other Expertise:**  
-- Neural Networks  
+- Neural Networks and agentic programming
 - OSINT (Open-Source Intelligence)  
-- REST APIs, JSON  
-- Google Tools: [Firebase Console](https://console.firebase.google.com), [IDX by Google](https://idx.google.com/)  
-- Agentic Programming(I know how work with tools such a Cursor,Opencode,Claude Code e.t.c.)
+- REST APIs, JSON    
+- Clean code advocate (SOLID, TDD, OOP)
+- Diagram Creation (UML, Flowcharts, ERD)**   
 ---
 
-## 💡 Key Strengths  
+## 💡 Soft Skills  
 - **Analytical Thinking:** Deep problem-solving and analytical abilities to tackle complex projects effectively.  
 - **Diplomacy and Teamwork:** Skilled at building relationships and working collaboratively, even in high-pressure environments.  
 - **Innovation:** Always exploring cutting-edge technologies like AI and OSINT, ensuring creative and future-ready solutions.  
 - **Self-Organization:** Strong time management and the ability to handle multiple priorities without compromising quality.  
 - **Stress Resilience:** Thrives in challenging situations, staying focused and delivering results under pressure.
 - **Requirements Specification Creation**  
-- **Diagram Creation (UML, Flowcharts, ERD)**   
 
 ---
 
