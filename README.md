@@ -18,7 +18,7 @@ I am a Junior Python Programmer and technology enthusiast with a versatile skill
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Cursor IDE](https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=visualstudiocode&logoColor=white) 
+![Cursor](https://img.shields.io/badge/-Cursor%20IDE-000000?style=flat-square&logo=visualstudiocode&logoColor=white) 
 ![Rider](https://img.shields.io/badge/-Rider-000000?style=flat-square&logo=jetbrains&logoColor=white)  
 
 **DevOps**  
@@ -29,7 +29,7 @@ I am a Junior Python Programmer and technology enthusiast with a versatile skill
 - OSINT (Open-Source Intelligence)  
 - REST APIs, JSON    
 - Clean code advocate (SOLID, TDD, OOP)
-- Diagram Creation (UML, Flowcharts, ERD)**   
+- Diagram Creation (UML, Flowcharts, ERD)
 ---
 
 ## 💡 Soft Skills  
