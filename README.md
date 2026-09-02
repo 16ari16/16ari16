@@ -45,11 +45,11 @@ I am a Junior Python Programmer and technology enthusiast with a versatile skill
 ## 🌐 **Languages**  
 - **Russian:** Native speaker.  
 - **English:** B1-B2 (Upper Intermediate)(Can maintain dialogue and correspond fluently in writing, though not a native speaker).  
-https://cert.efset.org/en/jyCkSm
+[EF SET Certificate](https://efset.org)
 
 ---
 
-## What i am doing now?
+## What I am doing now?
 I'm currently studying at a university called Kazan National Research Technical University named after A.N. Tupolev-KAI in the field of information systems and technologies (I graduated from college with a degree in the same field) and working in KFU as a programmer. 
 
 ---
