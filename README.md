@@ -48,9 +48,12 @@ I am a Junior Python Programmer and technology enthusiast with a versatile skill
 https://cert.efset.org/en/jyCkSm
 
 ---
+
 ## What i am doing now?
 I'm currently studying at a university called Kazan National Research Technical University named after A.N. Tupolev-KAI in the field of information systems and technologies (I graduated from college with a degree in the same field) and working in KFU as a programmer. 
+
 ---
+
 ## 🌌 Personal Touch  
 My dream is to contribute to the tech world by merging futuristic concepts like cyberpunk-inspired technologies with real-world applications. I believe in the power of artificial intelligence, automation, and innovation to shape a better tomorrow.  
 
