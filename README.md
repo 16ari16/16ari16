@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Airat Aripov!  
 
-I am a passionate programmer and technology enthusiast with a versatile skill set in software development, data analysis, and project management. My focus is on creating robust and innovative solutions that make an impact.
+I am a Junior Python Programmer and technology enthusiast with a versatile skill set in software development, data analysis, and project management. My focus is on creating robust and innovative solutions that make an impact.
 ---
 
 ## 🛠️ Hard Skills  
